@@ -1,0 +1,16 @@
+current directory: /root/alexa-lolipop-weather/vendor/bundle/ruby/2.5.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/usr/bin/ruby2.5 -r ./siteconf20200219-13089-1kjfw96.rb extconf.rb 
+
+current directory: /root/alexa-lolipop-weather/vendor/bundle/ruby/2.5.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: /root/alexa-lolipop-weather/vendor/bundle/ruby/2.5.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /root/alexa-lolipop-weather/vendor/bundle/ruby/2.5.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
